@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Rating
+comment0.text=\r\n\ Class\ Rating\r\n\r\n\ @Aisling\ Mcgettigan\r\n\ \r\n
+comment1.params=fn\ nr
+comment1.target=Rating(java.lang.String,\ int)
+comment2.params=
+comment2.target=java.lang.String\ getFilmName()
+comment3.params=
+comment3.target=int\ getNumericalRating()
+comment4.params=value
+comment4.target=void\ setFilmName(java.lang.String)
+comment5.params=value
+comment5.target=void\ setNumericalRating(int)
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7
